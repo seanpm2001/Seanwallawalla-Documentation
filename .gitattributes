@@ -57,7 +57,6 @@
 *.yaml linguist-documentation=false
 *.yaml linguist-language=YAML
 # Markdown
-# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.md linguist-detectable=true
 *.md linguist-documentation=false
 *.md linguist-language=Markdown
@@ -165,6 +164,6 @@
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2022, Tuesday, November 8th at 1:50 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File version: 6 (2022, Tuesday, November 8th at 2:01 pm PST)
+# Line count (including blank lines and compiler line): 170
 # End of script
